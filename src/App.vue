@@ -129,6 +129,7 @@ import { getDatabase, ref, set, onValue } from "firebase/database";
 //   onAuthStateChanged,
 //   signOut,
 // } from "firebase/auth";
+// endring2 DSAADFS
 
 export default {
   name: "App",
